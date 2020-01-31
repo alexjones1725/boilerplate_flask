@@ -1,0 +1,20 @@
+[2020-Jan-31 12:04] 127.0.0.1 GET http /? b'' 200 OK
+[2020-Jan-31 12:04] 127.0.0.1 GET http /swaggerui/droid-sans.css? b'' 200 OK
+[2020-Jan-31 12:04] 127.0.0.1 GET http /swaggerui/swagger-ui.css? b'' 200 OK
+[2020-Jan-31 12:04] 127.0.0.1 GET http /swaggerui/swagger-ui-bundle.js? b'' 200 OK
+[2020-Jan-31 12:04] 127.0.0.1 GET http /swaggerui/swagger-ui-standalone-preset.js? b'' 200 OK
+[2020-Jan-31 12:04] 127.0.0.1 GET http /swagger.json? b'' 200 OK
+[2020-Jan-31 12:05] 127.0.0.1 GET http /? b'' 200 OK
+[2020-Jan-31 12:05] 127.0.0.1 GET http /swaggerui/droid-sans.css? b'' 200 OK
+[2020-Jan-31 12:05] 127.0.0.1 GET http /swaggerui/swagger-ui.css? b'' 200 OK
+[2020-Jan-31 12:05] 127.0.0.1 GET http /swagger.json? b'' 200 OK
+[2020-Jan-31 12:05] 127.0.0.1 POST http /hello/? b'{\n  "name": "Alex"\n}' 200 OK
+[2020-Jan-31 12:06] 127.0.0.1 GET http /? b'' 200 OK
+[2020-Jan-31 12:06] 127.0.0.1 GET http /swaggerui/droid-sans.css? b'' 200 OK
+[2020-Jan-31 12:06] 127.0.0.1 GET http /swaggerui/swagger-ui.css? b'' 200 OK
+[2020-Jan-31 12:06] 127.0.0.1 GET http /swagger.json? b'' 200 OK
+[2020-Jan-31 12:06] 127.0.0.1 POST http /hello/? b'{\n  "name": "Alex"\n}' 200 OK
+[2020-Jan-31 12:06] 127.0.0.1 GET http /hello/? b'' 200 OK
+[2020-Jan-31 12:08] 127.0.0.1 POST http /hello/? b'{\n  "name": "Alex"\n}' 200 OK
+[2020-Jan-31 12:10] 127.0.0.1 POST http /hello/? b'{\n  "name": "Alex"\n}' 200 OK
+[2020-Jan-31 12:11] 127.0.0.1 POST http /hello/? b'{\n  "name": "Alex"\n}' 200 OK
